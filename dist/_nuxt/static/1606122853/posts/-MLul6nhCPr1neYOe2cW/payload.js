@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-MLul6nhCPr1neYOe2cW", {data:[{loadedPost:{author:"Jason",content:"test",id:"-MLul6nhCPr1neYOe2cW",previewText:"awesome!",thumbnail:"https:\u002F\u002Fsource.unsplash.com\u002FWbOR54pzvLM",title:"Just a test",updatedDate:"2020-11-12T04:44:00.164Z"}}],fetch:[],mutations:[]});

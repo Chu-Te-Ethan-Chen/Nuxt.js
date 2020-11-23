@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-MMo-BGXqeGKdv3XhFi7", {data:[{loadedPost:{author:"Jason",content:"test",previewText:"Great!",thumbnail:"https:\u002F\u002Fsource.unsplash.com\u002FewXKiIezeTg",title:"Nuxt",updatedDate:"2020-11-23T07:28:12.138Z"}}],fetch:[],mutations:[]});
